@@ -1,2 +1,7 @@
 # XV6-ASLR
-Implemented Address Space Randomization via relative addressing to randomize offset and prevent Buffer Overflow Attacks
+
+## Buffer Overflow Attacks
+![Buffer Overflow](img/2.png)
+
+## ASLR Solution
+![ASLR Solution](img/3.png)
